@@ -1,0 +1,14 @@
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/CountCallories.DataAccessLayer.csproj.AssemblyReference.cache
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/CountCallories.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/CountCallories.DataAccessLayer.AssemblyInfoInputs.cache
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/CountCallories.DataAccessLayer.AssemblyInfo.cs
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/CountCallories.DataAccessLayer.csproj.CoreCompileInputs.cache
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/bin/Debug/net9.0/CountCallories.DataAccessLayer.deps.json
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/bin/Debug/net9.0/CountCallories.DataAccessLayer.dll
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/bin/Debug/net9.0/CountCallories.DataAccessLayer.pdb
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/CountCallories.DataAccessLayer.dll
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/refint/CountCallories.DataAccessLayer.dll
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/CountCallories.DataAccessLayer.pdb
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/ref/CountCallories.DataAccessLayer.dll
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/bin/Debug/net9.0/CountCallories.DataAccessLayer.runtimeconfig.json
+/Users/stanislav/RiderProjects/CountCallories/CountCallories.DataAccessLayer/obj/Debug/net9.0/CountCallories.DataAccessLayer.genruntimeconfig.cache
